@@ -1,0 +1,9 @@
+/home/aq1026685175/CourseNote/w3/week3_exercises/Automata_Example/build/CMakeFiles/edit_cache.dir
+/home/aq1026685175/CourseNote/w3/week3_exercises/Automata_Example/build/CMakeFiles/rebuild_cache.dir
+/home/aq1026685175/CourseNote/w3/week3_exercises/Automata_Example/build/source/CMakeFiles/Automata_lib.dir
+/home/aq1026685175/CourseNote/w3/week3_exercises/Automata_Example/build/source/CMakeFiles/Automata_example.dir
+/home/aq1026685175/CourseNote/w3/week3_exercises/Automata_Example/build/source/CMakeFiles/edit_cache.dir
+/home/aq1026685175/CourseNote/w3/week3_exercises/Automata_Example/build/source/CMakeFiles/rebuild_cache.dir
+/home/aq1026685175/CourseNote/w3/week3_exercises/Automata_Example/build/test/CMakeFiles/automata_tests.dir
+/home/aq1026685175/CourseNote/w3/week3_exercises/Automata_Example/build/test/CMakeFiles/edit_cache.dir
+/home/aq1026685175/CourseNote/w3/week3_exercises/Automata_Example/build/test/CMakeFiles/rebuild_cache.dir
